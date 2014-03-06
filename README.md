@@ -2,7 +2,6 @@
 ===============
 
 ![fadeInFromCenter](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeInFromCenter.gif "fadeInFromCenter")
-![fadeOutToInside](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOutToInside.gif "fadeOutToInside")
 
 Category of UIViewController to make popup UI.
 
