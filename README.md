@@ -7,11 +7,11 @@
 
 ![fadeInFromOutside](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeInFromOutside.gif "fadeInFromOutside")
 
-![fadeOut](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOut.git "fadeOut")
+![fadeOut](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOut.gif "fadeOut")
 
-![fadeOutToCenter](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOutToCenter.git "fadeOutToCenter")
+![fadeOutToCenter](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOutToCenter.gif "fadeOutToCenter")
 
-![fadeOutToOutside](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOutToOutside.git "fadeOutToOutside")
+![fadeOutToOutside](https://raw2.github.com/kenzan8000/KZNPopViewController/master/Screenshot/fadeOutToOutside.gif "fadeOutToOutside")
 
 Category of UIViewController to make popup UI.
 
